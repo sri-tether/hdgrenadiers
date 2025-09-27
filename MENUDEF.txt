@@ -1,0 +1,20 @@
+OptionMenu "HDGLZJMenu"
+{
+	Title "$MENU_GRENADIER_MENU_TITLE"
+
+	StaticText " "
+	StaticText "$MENU_GRENADIER_NOREGERTS"
+	StaticText " "
+	StaticText "$MENU_GRENADIER_RATE_LOW"
+	StaticText " "
+	StaticText "$MENU_GRENADIER_RATE_DEFAULT"
+	StaticText " "
+	StaticText "$MENU_GRENADIER_RATE_HI"
+	StaticText " "
+	Slider "$MENU_GRENADIER_REPLACEMENT_RATE", "HDGLZ_GrenadierReplaceRate", 0.0, 1.0, 0.1
+}
+
+AddOptionMenu "HDAddonMenu"
+{
+	Submenu "$MENU_GRENADIER", "HDGLZJMenu"
+}

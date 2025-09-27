@@ -1,0 +1,13 @@
+[en enc eng eni ena enz default]
+
+TAG_GRENADIER="Grenadier";
+OB_GRENADIER="%o was intercepted by one of the Tyrant's grenadiers.";
+OB_GRENADIER_HIT="%o got %hself turned to a skidmark by a grenadier.";
+
+MENU_GRENADIER_MENU_TITLE="Grenadier Options";
+MENU_GRENADIER="Grenadiers";
+MENU_GRENADIER_NOREGERTS=":)))))))))))))).";
+MENU_GRENADIER_RATE_LOW="0.1 = low.";
+MENU_GRENADIER_RATE_DEFAULT="0.2 = default.";
+MENU_GRENADIER_RATE_HI="1.0 = grenadier are common (bad).";
+MENU_GRENADIER_REPLACEMENT_RATE="Grenadier Replacement Rate";

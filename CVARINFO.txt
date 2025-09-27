@@ -1,0 +1,1 @@
+server float hdglz_grenadierreplacerate = 0.2;
