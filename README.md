@@ -4,12 +4,13 @@ have fun :)
 
 inspired by Thunder-Buster-Jackboots
 sprites are placeholder
-BETA version
 
+```
         __
    -. (/)(/) .- 
     '\.';;'./'  
  .-\.'  ;;  './-.
    ;    ;;    ;  
    ;   .''.   ;  
-    '''    '''   
+    '''    '''
+```
