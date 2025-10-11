@@ -27,12 +27,10 @@ class HDGLZHandler : EventHandler
             case 'ZombieSemiStormtrooper':
             case 'ZombieSMGStormtrooper':
             case 'ZombieHideousTrooper':
-//                 if (rate >= 1.0 || (rate > 0.0 && frandom(0.0, 1.0) < rate))
-//                 {
+                if (rate >= 1.0 || (rate > 0.0 && frandom(0.0, 1.0) < rate)) {
                     e.Replacement = "HDGrenadier";
-//                 }
+                }
                 break;
-
             case 'DeadZombieStormtrooper':
             case 'DeadZombieAutoStormtrooper':
             case 'DeadZombieSemiStormtrooper':
